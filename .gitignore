@@ -1,4 +1,5 @@
 # Ignore Hugo files  
+/themes/
 /public/
 /resources/_gen/
 /assets/jsconfig.json
