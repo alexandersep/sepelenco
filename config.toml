@@ -18,7 +18,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "About", URL = "/about/", HasChildren = false},
+        # {Name = "About", URL = "/about/", HasChildren = false},
         {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
     ]
 
@@ -27,6 +27,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     gitlab_url = "https://gitlab.scss.tcd.ie/sepelena"
     linkedin_url = "https://www.linkedin.com/in/alexander-sepelenco-0765bb237/" 
     youtube_url = "https://youtube.com/@Silent."
+    email = "mailto:sepelena@tcd.ie"
 
     # NOTE: If you don't want to use RSS, comment or delete the following lines
     # Adds an RSS icon to the end of the socials which links to {{ .Site.BaseURL }}/index.xml

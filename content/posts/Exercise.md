@@ -19,7 +19,7 @@ my sleep schedule, health, and mental mind.
 ## Now What?
 So... What's my next plan on getting physically in shape. I have 2. Last week
 I went to the gym in Trinity. I haven't ever been to this gym before so it was
-rather bit new. I went to the gym during summer when I was young, but haven't
+new experience. I went to the gym during summer when I was young, but haven't
 been in one since forever, a friend who was been going for over a year, showed
 me the ropes. So I plan to go gym with him, and also do one other sport which
 I've gotten a lot of interest recently.
