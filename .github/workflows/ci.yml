@@ -1,0 +1,29 @@
+name: CI
+
+# When action is run
+on:
+  # on push to main branch
+  push:
+    branches: [ main ]
+
+  # on click of button
+  workfow_dispatch:
+
+# Jobs of CI
+jobs:
+  build:
+    name: Deploy Website
+    runs-on: ubuntu-latest
+    steps:
+    - name: executing remote ssh commands using rsa private key
+      uses: appleboy/ssh-action@v0.1.8
+      with:
+        host: sepelenco.com
+        username: root
+        key: ${{ secrets.sepelenco_ssh }}
+        port: ${{ secrets.sepelenco_port }}
+        script: |
+          cd /var/www/silent/sepelenco
+          git pull --force origin main
+          hugo
+
