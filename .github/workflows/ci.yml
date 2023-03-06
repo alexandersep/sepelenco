@@ -6,9 +6,6 @@ on:
   push:
     branches: [ main ]
 
-  # on click of button
-  workfow_dispatch:
-
 # Jobs of CI
 jobs:
   build:
