@@ -31,5 +31,4 @@ It also can potetentially increase the grade in school. If you're at any way
 skeptical, I encourage you to check out the source and try journaling out for yourself
 it is a really powerful tool when used correctly. [Source][1] (GCU Experience, 2022)
 
-
 [1]: https://www.gcu.edu/blog/gcu-experience/many-benefits-journaling-students
