@@ -1,6 +1,6 @@
 # sepelenco
 
-<https://sepelenco.com>
+<http://sepelenco.com>
 
 A personal website written in [Hugo](https://gohugo.io/). 
 
